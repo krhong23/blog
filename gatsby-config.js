@@ -3,10 +3,10 @@ module.exports = {
     title: `Developer Hong Blog`,
     author: {
       name: `Karam Hong`,
-      summary: `who lives and works in Korea useful things.`,
+      summary: `who lives and works in seoul Building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://krhong23.netlify.app/`,
+    siteUrl: `https://developer-krhong.netlify.app/`,
     social: {
       twitter: ``,
     },
