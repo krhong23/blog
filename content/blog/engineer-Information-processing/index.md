@@ -1,6 +1,7 @@
 ---
-title: 정보 처리기사 2020 실기 준비
-date: "2020-09-05 T23:46:37.121Z"
+title: Engineer Information Processing
+date: "2020-09-06T21:04:37.121Z"
+description: "정보 처리기사 2020 실기 준비"
 ---
 
 # I 요구사항 확인
